@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resilience.Api", "Resilience.Api\Resilience.Api.csproj", "{FA93C308-B580-40EE-861F-9B067F5A788B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resilience.App", "Resilience.App\Resilience.App.csproj", "{D973CBF6-0AC1-47BF-8C9D-0AA637A058AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA93C308-B580-40EE-861F-9B067F5A788B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA93C308-B580-40EE-861F-9B067F5A788B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA93C308-B580-40EE-861F-9B067F5A788B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA93C308-B580-40EE-861F-9B067F5A788B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D973CBF6-0AC1-47BF-8C9D-0AA637A058AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D973CBF6-0AC1-47BF-8C9D-0AA637A058AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D973CBF6-0AC1-47BF-8C9D-0AA637A058AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D973CBF6-0AC1-47BF-8C9D-0AA637A058AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
